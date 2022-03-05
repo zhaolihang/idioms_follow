@@ -1,5 +1,6 @@
 import * as fs from 'fs-extra';
 import * as _ from 'lodash';
+
 class Idiom {
     word: string;
     pinyin: string;
